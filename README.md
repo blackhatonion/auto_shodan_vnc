@@ -1,7 +1,7 @@
 # auto_shodan_vnc
 This script will allow you to automatically connect to unsecured VNC using shodan api
 
-How to get started? LINUX ONLY
+How to setup? LINUX ONLY
 
 1. Sign up or login to https://shodan.io
 2. Copy your Api Key from your shodan profile
