@@ -13,3 +13,6 @@ How to setup? LINUX ONLY
 8. cd auto_shodan_vnc
 9. nano shodann.py (and paste your shodan api-key inside the script and save it)
 10. python3 shodann.py
+
+Disclaimer: I am not responsible for any damages caused by this program. I do not encourage you to connect to people's computer
+without prior consent, if you do, it is your choice and you are the only one responsible.
