@@ -1,7 +1,7 @@
-""""
-Made by @01mi773r
-VERSION 1 MAY 18 2020
-""""
+
+#Made by @01mi773r
+#VERSION 1 MAY 18 2020
+
 #insert your shodan api key below
 your_shodan_api = ''
 
